@@ -10,7 +10,7 @@ public class OdevIk {
     int  yas;
 
     public void gorev(){
-        System.out.println(isim + " " + soyisim + " görevi " + gorev );
+        System.out.println(isim + "deneme " + soyisim + " görevi " + gorev );
 
     }
 
